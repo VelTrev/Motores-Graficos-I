@@ -2,7 +2,7 @@
 Una introducción al uso de motores gráficos con Unity
 
 ## Semana 0
-[link](intro.md)
+[link](semanas/0.md)
 Cosas de esta semana
 
 ## Semana 1
