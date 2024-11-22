@@ -1,70 +1,17 @@
 # Motores Gráficos I
 Una introducción al uso de motores gráficos con Unity
+[Ir al inicio](semanas/0.md)
 
-## Semana 0
-[link](semanas/0.md)
-Cosas de esta semana
+## Material
 
-## Semana 1
+En este curso se usará Unity 6, que se puede descargar desde Unity Hub.
+Para instrucciones de instalación de Unity Hub ver la semana uno.
 
-Cosas de esta semana
+## Encuadre
 
-## Semana 2
+- 25% Proyecto final
+- 20% Segundo Proyecto
+- 15% Primer proyecto
+- 40% Tareas y trabajos
 
-Cosas de esta semana
-
-## Semana 3
-
-Cosas de esta semana
-
-## Semana 4
-
-Cosas de esta semana
-
-## Semana 5
-
-Cosas de esta semana
-
-## Semana 6
-
-Cosas de esta semana
-
-## Semana 7
-
-Cosas de esta semana
-
-## Semana 8
-
-Cosas de esta semana
-
-## Semana 9
-
-Cosas de esta semana
-
-## Semana 10
-
-Cosas de esta semana
-
-## Semana 11
-
-Cosas de esta semana
-
-## Semana 12
-
-Cosas de esta semana
-
-## Semana 13
-
-Cosas de esta semana
-
-## Semana 14
-
-Cosas de esta semana
-
-## Semana 15
-
-Cosas de esta semana
-
-## Semana 16
-
-Cosas de esta semana
+Se debe tener un 80% de asistencia para tener derecho a evaluación en periodo ordinario. Al ser un taller no hay evaluación extraordinaria.
