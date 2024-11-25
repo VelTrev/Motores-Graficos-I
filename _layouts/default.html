@@ -25,7 +25,7 @@
 
         <ul> 
           {% for file in site.static_files %} 
-            {% if file.path contains '/semanas/' %} 
+            {% if file.path contains '/semanas/' and page.url ends_with '.html' %} 
               <li><a href="{{ file.path | relative_url }}">{{ file.path | replace: '/semanas/', '' }}</a></li> 
             {% endif %} 
           {% endfor %} 
